@@ -1,0 +1,2 @@
+alias sauce='source $DOTFILES/config'	      # Source dotfiles
+alias ls='ls -laGF'                           # Compact view, show color

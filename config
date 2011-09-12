@@ -1,0 +1,5 @@
+export DOTFILES=~/.dotfiles         # Find the this folder
+
+source $DOTFILES/aliases/aliases
+source $DOTFILES/aliases/git
+source $DOTFILES/$CURRENT_SHELL/config

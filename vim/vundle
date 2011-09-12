@@ -1,0 +1,23 @@
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+
+Bundle 'gmarik/vundle'
+Bundle 'scrooloose/nerdtree'
+Bundle 'nathanaelkane/vim-command-w'
+Bundle 'nathanaelkane/snipmate-snippets'
+Bundle 'nathanaelkane/vim-indent-guides'
+Bundle 'wincent/Command-T'
+Bundle 'bronson/vim-trailing-whitespace'
+Bundle 'tpope/vim-rails'
+Bundle 'vim-scripts/upAndDown'
+Bundle 'AndrewRadev/ack.vim'
+Bundle 'tomtom/tcomment_vim'
+Bundle 'bufkill.vim'
+Bundle 'bufexplorer.zip'
+Bundle 'vimwiki'
+Bundle 'haml.zip'
+Bundle 'snipMate'
+Bundle 'EasyMotion'
+
+" Colorschemes
+Bundle 'altercation/vim-colors-solarized'

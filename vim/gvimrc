@@ -1,0 +1,6 @@
+if has("gui_macvim")
+  set guioptions-=T           " Hide the tool bar
+
+  set guifont=Monaco:h14
+  hi Normal guibg=#222222
+endif

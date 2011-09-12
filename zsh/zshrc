@@ -1,0 +1,3 @@
+# Must be symlinked to ~/.zshrc
+export CURRENT_SHELL="zsh"
+source ~/.dotfiles/config

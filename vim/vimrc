@@ -1,0 +1,11 @@
+let mapleader=','
+
+source ~/.dotfiles/vim/vundle
+source ~/.dotfiles/vim/key_bindings
+source ~/.dotfiles/vim/plugin_config
+
+" Color Scheme
+syntax enable
+set background=dark
+let g:solarized_termcolors=256
+colorscheme solarized
